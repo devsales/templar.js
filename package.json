@@ -1,0 +1,21 @@
+{
+  "name": "templar.js",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "repository": "git@github-devsales:devsales/templar.js.git",
+  "author": "Pavel Nikolov <pavel.nikolov@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.21.1",
+    "body-parser": "1.19.0",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "helmet": "4.3.1",
+    "pino": "6.10.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "8.2.1",
+    "pino-pretty": "4.3.0"
+  }
+}
