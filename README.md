@@ -1,1 +1,1 @@
-# templarjs
+# templar.js
